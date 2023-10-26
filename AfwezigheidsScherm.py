@@ -1,3 +1,45 @@
+# *******************************************************************
+# *                                                                 *
+# *                AfwezigheidsScherm                               *
+# *                                                                 *
+# *  Auteur: Jeroen Snellings                                       *
+# *  Datum: 25 oktober 2023                                         *
+# *  Versie: 1.1                                                    *
+# *                                                                 *
+# *  Beschrijving:                                                  *
+# *  Dit programma is verantwoordelijk voor het vertonen van de     *
+# *  afweigheden van de docenten van de PIBO op het scherm in de    *
+# *  inkomhal.                                                      *
+# *                                                                 *
+# *  Auteursrecht (c) 2023 Jeroen Snellings                         *
+# *                                                                 *
+# *  Hierbij wordt toestemming verleend, kosteloos, aan eenieder    *
+# *  die een kopie van deze software en de bijbehorende             *
+# *  documentatiebestanden (de "Software") verkrijgt, om de         *
+# *  Software zonder beperkingen te gebruiken, inclusief, maar      *
+# *  niet beperkt tot, het recht om kopieën van de Software te      *
+# *  gebruiken, te kopiëren, te wijzigen, samen te voegen, te       *
+# *  publiceren, te distribueren, onder de volgende voorwaarden:    *
+# *                                                                 *
+# *  De bovenstaande auteursrechtverklaring en deze                 *
+# *  toestemmingsverklaring moeten in alle kopieën of               *
+# *  aanzienlijke delen van de Software worden opgenomen.           *
+# *                                                                 *
+# *  DE SOFTWARE WORDT GELEVERD "AS IS", ZONDER ENIGE               *
+# *  GARANTIE, EXPLICIET OF IMPLICIET, INCLUSIEF, MAAR NIET         *
+# *  BEPERKT TOT, DE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID    *
+# *  VOOR EEN BEPAALD DOEL EN NIET-INBREUK. IN GEEN GEVAL ZULLEN    *
+# *  DE AUTEURS OF HOUDERS VAN HET AUTEURSRECHT AANSPRAKELIJK       *
+# *  ZIJN VOOR ENIGE CLAIM, SCHADE OF ANDERE AANSPRAKELIJKHEID,     *
+# *  ONGEACHT IN EEN ACTIE VAN CONTRACT, ONRECHT OF ANDERSZINS,     *
+# *  VOORTVLOEIEND UIT, OF IN VERBAND MET DE SOFTWARE OF HET        *
+# *  GEBRUIK OF ANDERE HANDELINGEN IN DE SOFTWARE.                  *
+# *                                                                 *
+# *                                                                 *
+# *  VERKOPEN VAN DEZE SOFTWARE IS NIET TOEGESTAAN                  *
+# *                                                                 *
+# *******************************************************************
+
 import os
 import time
 import tkinter as tk
